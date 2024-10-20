@@ -2,7 +2,7 @@
 'RCET0265
 'Fall24
 'Address Label Maker
-' link
+'https://github.com/ju8t1n203/AddressLabel
 Public Class AddressLabel
     'combines the first and laast name for the label
     Sub UserName()
